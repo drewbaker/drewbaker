@@ -13,6 +13,6 @@ https://docs.google.com/presentation/d/1CYZPRmNZFdA_ez3DXEjxGfLbH-bsw5xy4CwwsSuF
 I presented this to VueJS LA meetup.
 https://docs.google.com/presentation/d/14o8sxrVpvOh_1WE6y_R4IsL9guO4VMQR0jRvsxacbC0/edit?usp=sharing
 
-## Financial Advie
+## Financial Advice
 I give this to all the new hires at Funkhaus, so they don't waste thier money.
 https://docs.google.com/presentation/d/1PonNBqORLZxef0olSYhS0vbSnJ32voDXkObOSQcpWq0/edit?usp=sharing

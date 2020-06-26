@@ -6,13 +6,13 @@ A running file with links to all the presentations I've given over the years.
 This is a presentation I gave to the VueJS LA meetup group on June 9th, 2020
 
 > This will be a live coding session, where Drew shows us how to rapidly develop a Vue/Nuxt App, with a GraphQL API backend, including JWT Auth, and an updating database. Drew is an extremely experienced developer, so we'll get to see him in action as he build a very cool app right in front of out eyes.
-
+> 
 > For those of you who are unfamiliar, 8Base is a GraphQL backend as a service. You can think of it as a more robust version of Firebase, where you get an *entire database backend* available to you via a GUI (create tables, relationships, datatypes etc. all through a GUI). Moreso, the 8Base API is served to the frontend as a GraphQL API.  Should be interesting to see Drew quickly prototype a Nuxt/GraphQL (8Base) App, with Auth and everything else included.
 
-**Video** 
+**Video:** 
 https://www.youtube.com/watch?v=FwiyjhK1wYY
 
-**Repos**
+**Repos:**
 https://github.com/funkhaus/8baseDemo-frontend
 https://github.com/funkhaus/8baseDemo-backend
 

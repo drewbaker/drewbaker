@@ -46,7 +46,7 @@ https://docs.google.com/presentation/d/1CYZPRmNZFdA_ez3DXEjxGfLbH-bsw5xy4CwwsSuF
 I presented this to VueJS LA meetup on Febuary 12th, 2019
 
 > Drew is the Technical Director at Funkhaus, a creative agency. Funkhaus' team are also the creators and maintainers of the Vuehaus boilerplate used to build fast, responsive WordPress templates with Vue.js. Built by Funkhaus.
-
+>
 > Drew Baker and his team are particularly knowledgeable about WordPress and Vue, and have also created some incredibly beautiful and robust websites, so it will be a great learning experience for all of us to see how they think about building Wordpress/Vue apps.
 
 **Presentation:**

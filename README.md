@@ -25,6 +25,9 @@ This is a presentation I gave to the VueJS LA meetup group on January 4th, 2019
 **Presentation:**
 https://docs.google.com/presentation/d/1xMqvylzoIwpEgwFEpXI8it_HGo7BUGrt8h65E0nvEQo/edit?usp=sharing
 
+**Repo:**
+https://github.com/funkhaus/best-practices
+
 ## SEO best practices in Nuxt and Vue.js
 I presented this to VueJS LA meetup on August 13th, 2019
 

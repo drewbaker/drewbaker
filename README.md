@@ -1,5 +1,5 @@
 # Presentations
-Just a readme with links to all the presentations I've given
+A running file with links to all the presentations I've given over the years.
 
 ## How to leverage 8Base to rapidly build a Nuxt/Vue web application, without needing to know anything about servers!
 

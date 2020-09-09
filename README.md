@@ -1,7 +1,9 @@
 # Presentations
+
 A running file with links to all the presentations I've given over the years.
 
 **Bio:**
+
 > Drew Baker is the technical co-founder of [Funkhaus](https://funkhaus.us), a successful Los Angeles based digital creative agency. He’s built hundreds of websites for the top creative companies in the world and trained teams of developers. Proven track record architecting and building large scale decoupled websites and applications. He recently co-founded [Polaris](https://app.polarisprojects.com), a project management web application for the construction industry and is a regular presenter at the Vue.js LA meetup group.
 
 ## How I simplified a complex local state using VuexORM
@@ -11,9 +13,11 @@ This is a presentation I gave to the VueJS LA meetup group on September 8th, 202
 > I have an application that deals with data that is highly nested (or relational). Storing this in a traditional way and having it remain accessible is a real problem. That’s where Object-Relational Mapping tools can help. I’ll show you how I used VuexORM to greatly simplify my Vuex store.
 
 **Video:** 
+
 https://youtu.be/dLKpk9u5NTg
 
 **Presentation:**
+
 https://docs.google.com/presentation/d/15FrBPcLMKsye3r-uLeye4qbl-z9APaurmxX6OXGei8Q/edit?usp=sharing
 
 ## How to leverage 8Base to rapidly build a Nuxt/Vue web application, without needing to know anything about servers!
@@ -25,9 +29,11 @@ This is a presentation I gave to the VueJS LA meetup group on June 9th, 2020
 > For those of you who are unfamiliar, 8Base is a GraphQL backend as a service. You can think of it as a more robust version of Firebase, where you get an *entire database backend* available to you via a GUI (create tables, relationships, datatypes etc. all through a GUI). Moreso, the 8Base API is served to the frontend as a GraphQL API.  Should be interesting to see Drew quickly prototype a Nuxt/GraphQL (8Base) App, with Auth and everything else included.
 
 **Video:** 
+
 https://www.youtube.com/watch?v=FwiyjhK1wYY
 
 **Repos:**
+
 https://github.com/funkhaus/8baseDemo-frontend
 https://github.com/funkhaus/8baseDemo-backend
 
@@ -38,9 +44,11 @@ This is a presentation I gave to the VueJS LA meetup group on January 4th, 2019
 > Drew Baker is going to give us a talk on his cumulative experience and best practices for use of CSS and web development in general. Drew and his Funkhaus agency do incredible, beautiful work with their websites, so much so that I'm always impressed to learn what they can actually accomplish in CSS. This will be like getting a first hand training from an lead industry expert -- do's and don'ts to building beautiful, scalable websites. Don't miss it.
 
 **Presentation:**
+
 https://docs.google.com/presentation/d/1xMqvylzoIwpEgwFEpXI8it_HGo7BUGrt8h65E0nvEQo/edit?usp=sharing
 
 **Repo:**
+
 https://github.com/funkhaus/best-practices
 
 ## SEO best practices in Nuxt and Vue.js
@@ -50,6 +58,7 @@ I presented this to VueJS LA meetup on August 13th, 2019
 Under his guidance, the Funkhaus team also maintains the Stackhaus Vue/Nuxt frontend boilerplate optimized to work with a Wordpress backend.
 
 **Presentation:**
+
 https://docs.google.com/presentation/d/1wbmTiCsa_XKYhInma8npdxqCzvP5ZGqM1aOH18h169Y/edit?usp=sharing
 
 ## Using GraphQL with Nuxt and Apollo
@@ -58,6 +67,7 @@ Myself and an employee at Funkhaus presented this to the VueJS LA meetup on May 
 > By popular demand, Drew Baker will presenting on using Graph QL within the Vue.js ecosystem. For those who don't know what Graph QL is, it is a "web API query language" allowing developer an alternative to writing REST APIs. If that sounds strange, it is at first, until you see it. To "get" Graph QL, you'll have to come check it out to see what Graph QL is and how it is implemented. Drew will start by giving a little overview of what Graph QL is, how it differs from REST, how it can be useful to web-development, and specifically how to use it in the context of a Vue.js application.
 
 **Presentation:**
+
 https://docs.google.com/presentation/d/1CYZPRmNZFdA_ez3DXEjxGfLbH-bsw5xy4CwwsSuFOWk/edit?usp=sharing
 
 ## Using WordPress as a CMS for Vue.js
@@ -74,4 +84,5 @@ https://docs.google.com/presentation/d/14o8sxrVpvOh_1WE6y_R4IsL9guO4VMQR0jRvsxac
 I give this to all the new hires at Funkhaus, so they don't waste thier money.
 
 **Presentation:**
+
 https://docs.google.com/presentation/d/1PonNBqORLZxef0olSYhS0vbSnJ32voDXkObOSQcpWq0/edit?usp=sharing

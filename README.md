@@ -1,6 +1,21 @@
 # Presentations
 A running file with links to all the presentations I've given over the years.
 
+**Bio:**
+> Drew Baker is the technical co-founder of [Funkhaus](https://funkhaus.us), a successful Los Angeles based digital creative agency. He’s built hundreds of websites for the top creative companies in the world and trained teams of developers. Proven track record architecting and building large scale decoupled websites and applications. He recently co-founded [Polaris](https://app.polarisprojects.com), a project management web application for the construction industry and is a regular presenter at the Vue.js LA meetup group.
+
+## How I simplified a complex local state using VuexORM
+
+This is a presentation I gave to the VueJS LA meetup group on September 8th, 2020
+
+> I have an application that deals with data that is highly nested (or relational). Storing this in a traditional way and having it remain accessible is a real problem. That’s where Object-Relational Mapping tools can help. I’ll show you how I used VuexORM to greatly simplify my Vuex store.
+
+**Video:** 
+https://youtu.be/dLKpk9u5NTg
+
+**Presentation:**
+https://docs.google.com/presentation/d/15FrBPcLMKsye3r-uLeye4qbl-z9APaurmxX6OXGei8Q/edit?usp=sharing
+
 ## How to leverage 8Base to rapidly build a Nuxt/Vue web application, without needing to know anything about servers!
 
 This is a presentation I gave to the VueJS LA meetup group on June 9th, 2020

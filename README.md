@@ -6,6 +6,16 @@ A running file with links to all the presentations I've given over the years.
 
 > Drew Baker is the technical co-founder of [Funkhaus](https://funkhaus.us), a successful Los Angeles based digital creative agency. He’s built hundreds of websites for the top creative companies in the world and trained teams of developers. He has a proven track record architecting and building large scale decoupled websites and applications. He recently co-founded [Polaris](https://app.polarisprojects.com), a project management web application for the construction industry and is a regular presenter at the Vue.js LA meetup group.
 
+## Show & Tell time
+
+A presentation to the VueJS LA meetup group on January 12, 2021. 
+
+> Show & Tell time: Drew Baker will be taking us through some of the interesting Vue components they've built for client projects at his agency Funkhaus and showing us some tricks of the trade along the way.
+
+**Repo:**
+
+https://github.com/drewbaker/show-and-tell
+
 ## How I simplified a complex local state using VuexORM
 
 This is a presentation I gave to the VueJS LA meetup group on September 8th, 2020

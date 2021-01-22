@@ -16,6 +16,10 @@ A presentation to the VueJS LA meetup group on January 12, 2021.
 
 https://github.com/drewbaker/show-and-tell
 
+**Video:**
+
+https://www.youtube.com/watch?v=qx6JKhWomGY
+
 ## How I simplified a complex local state using VuexORM
 
 This is a presentation I gave to the VueJS LA meetup group on September 8th, 2020

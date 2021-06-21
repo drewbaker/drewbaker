@@ -6,6 +6,16 @@ A running file with links to all the presentations I've given over the years.
 
 > Drew Baker is the technical co-founder of [Funkhaus](https://funkhaus.us), a successful Los Angeles based digital creative agency. He’s built hundreds of websites for the top creative companies in the world and trained teams of developers. He has a proven track record architecting and building large scale decoupled websites and applications. He recently co-founded [Polaris](https://app.polarisprojects.com), a project management web application for the construction industry and is a regular presenter at the Vue.js LA meetup group.
 
+## How I taught UCLA to build websites
+
+A presentation to the JS.LA meetup group on June 24th, 2021. 
+
+> Lessons learned from teaching a new framework to the UCLA Libary dev team, the major decisions made along the way, and how to best train a team of developers at scale. 
+
+**Presentation:**
+
+https://www.dropbox.com/s/dxn6e0ctmuflpoc/How%20I%20taught%20UCLA%20to%20build%20websites.key?dl=0
+
 ## Show & Tell time
 
 A presentation to the VueJS LA meetup group on January 12, 2021. 

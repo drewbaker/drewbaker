@@ -6,6 +6,14 @@ A running file with links to all the presentations I've given over the years.
 
 > Drew Baker is the technical co-founder of [Funkhaus](https://funkhaus.us), a successful Los Angeles based digital creative agency. He’s built hundreds of websites for the top creative companies in the world and trained teams of developers. He has a proven track record architecting and building large scale decoupled websites and applications. He recently co-founded [Polaris](https://app.polarisprojects.com), a project management web application for the construction industry and is a regular presenter at the Vue.js LA meetup group.
 
+##  The DE{CODE} podcast: Funkhaus and Headless with Drew Baker 
+
+> Drew Baker, technical director of Webby award-nominated web agency Funkhaus joins the podcast to talk headless. He talks about Funkhaus's experience deploying headless WordPress for clients with everything from WP GraphQL and Nuxt, how Drew's clients enjoy their fancy decoupled sites, and what might make headless more enticing to clients.
+
+**Download**
+
+https://podcasts.apple.com/us/podcast/the-de-code-podcast/id1558700234?i=1000527169392
+
 ## How I taught UCLA to build websites
 
 A presentation to the JS.LA meetup group on June 24th, 2021. 

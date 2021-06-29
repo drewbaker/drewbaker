@@ -1,6 +1,6 @@
 # Presentations
 
-A running file with links to all the presentations I've given over the years.
+A running file with links to all the presentations, press or podcasts I've been a part of over the years.
 
 **Bio:**
 

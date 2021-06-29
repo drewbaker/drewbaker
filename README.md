@@ -10,7 +10,7 @@ A running file with links to all the presentations I've given over the years.
 
 > Drew Baker, technical director of Webby award-nominated web agency Funkhaus joins the podcast to talk headless. He talks about Funkhaus's experience deploying headless WordPress for clients with everything from WP GraphQL and Nuxt, how Drew's clients enjoy their fancy decoupled sites, and what might make headless more enticing to clients.
 
-**Download**
+**Download:**
 
 https://podcasts.apple.com/us/podcast/the-de-code-podcast/id1558700234?i=1000527169392
 

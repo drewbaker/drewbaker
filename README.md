@@ -20,7 +20,7 @@ https://podcasts.apple.com/us/podcast/the-de-code-podcast/id1558700234?i=1000527
 
 A presentation to the JS.LA meetup group on June 24th, 2021. 
 
-> Lessons learned from teaching a new framework to the UCLA Libary dev team, the major decisions made along the way, and how to best train a team of developers at scale. 
+> Lessons learned from teaching a new framework to the UCLA Library dev team, the major decisions made along the way, and how to best train a team of developers at scale. 
 
 **Presentation:**
 

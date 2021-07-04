@@ -8,6 +8,8 @@ A running file with links to all the presentations, press or podcasts I've been 
 
 ##  The DE{CODE} podcast: Funkhaus and Headless with Drew Baker 
 
+A podcast I was a guest on. Released June 28th, 2021.
+
 > Drew Baker, technical director of Webby award-nominated web agency Funkhaus joins the podcast to talk headless. He talks about Funkhaus's experience deploying headless WordPress for clients with everything from WP GraphQL and Nuxt, how Drew's clients enjoy their fancy decoupled sites, and what might make headless more enticing to clients.
 
 **Download:**

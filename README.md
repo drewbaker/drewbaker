@@ -6,6 +6,16 @@ A running file with links to all the presentations, press or podcasts I've been 
 
 > Drew Baker is the technical co-founder of [Funkhaus](https://funkhaus.us), a successful Los Angeles based digital creative agency. He’s built hundreds of websites for the top creative companies in the world and trained teams of developers. He has a proven track record architecting and building large scale decoupled websites and applications. He recently co-founded [Polaris](https://app.polarisprojects.com), a project management web application for the construction industry and is a regular presenter at the Vue.js LA meetup group.
 
+## Junior To Senior with David Guttman
+
+A podcast I was a guest on. Released July 26th, 2021.
+
+> David and Drew talk about being creative as a developer, finding your niche, and solving problems that free up time.
+
+**Download:**
+
+https://juniortosenior.io/54
+
 ##  The DE{CODE} podcast: Funkhaus and Headless with Drew Baker 
 
 A podcast I was a guest on. Released June 28th, 2021.

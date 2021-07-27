@@ -32,6 +32,10 @@ A presentation to the JS.LA meetup group on June 24th, 2021.
 
 > Lessons learned from teaching a new framework to the UCLA Library dev team, the major decisions made along the way, and how to best train a team of developers at scale. 
 
+**Video:**
+
+https://www.youtube.com/watch?v=AxR0jv5KTnA
+
 **Presentation:**
 
 https://www.dropbox.com/s/dxn6e0ctmuflpoc/How%20I%20taught%20UCLA%20to%20build%20websites.key?dl=0

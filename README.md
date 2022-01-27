@@ -134,3 +134,14 @@ I give this to all the new hires at Funkhaus, so they don't waste thier money.
 **Presentation:**
 
 https://docs.google.com/presentation/d/1PonNBqORLZxef0olSYhS0vbSnJ32voDXkObOSQcpWq0/edit?usp=sharing
+
+# Press
+
+- https://www.monsterchildren.com/a-behind-the-scenes-look-at-funkhaus/
+- http://voyagela.com/interview/meet-drew-baker-funkhaus-downtown-la/
+- https://getflywheel.com/layout/funkhaus-managed-hosting/
+- https://www.loversmagazine.com/interviews/drew-baker
+- https://journalhotels.com/thejournalist/6838/drew-baker-is-transforming-las-creative-industry-one-design-at-a-time/
+- https://www.latimes.com/lifestyle/story/2020-05-11/quarantine-benefits-positive-stay-at-home-order-stories
+- https://shoutoutla.com/meet-drew-baker-technical-director-and-partner/
+

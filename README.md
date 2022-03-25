@@ -4,7 +4,7 @@ A running file with links to all the presentations, press or podcasts I've been 
 
 **Bio:**
 
-> Drew Baker is the technical co-founder of [Funkhaus](https://funkhaus.us), a successful Los Angeles based digital creative agency. He’s built hundreds of websites for the top creative companies in the world and trained teams of developers. He has a proven track record architecting and building large scale decoupled websites and applications. He recently co-founded [Polaris](https://app.polarisprojects.com), a project management web application for the construction industry and is a regular presenter at the Vue.js LA meetup group.
+> Drew Baker is a Partner and Technology Director at Funkhaus, where he oversees the strategic initiatives of the development team and shares in Managing Director responsibilities of the Los Angeles office. He’s built hundreds of websites for the top creative companies in the world and trained teams of developers. He has a proven track record of architecting and building large scale decoupled websites and applications. He’s a regular contributor to the open-source ecosystem for Nuxt, and Headless WordPress GraphQL, and is a regular presenter at the Vue.js LA meetup group.
 
 ## Junior To Senior with David Guttman
 

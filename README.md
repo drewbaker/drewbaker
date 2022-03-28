@@ -145,3 +145,7 @@ https://docs.google.com/presentation/d/1PonNBqORLZxef0olSYhS0vbSnJ32voDXkObOSQcp
 - https://www.latimes.com/lifestyle/story/2020-05-11/quarantine-benefits-positive-stay-at-home-order-stories
 - https://shoutoutla.com/meet-drew-baker-technical-director-and-partner/
 
+# Notable tweets
+
+- https://mobile.twitter.com/mxstbr/status/1496468826443104257
+

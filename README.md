@@ -6,6 +6,38 @@ A running file with links to all the presentations, press or podcasts I've been 
 
 > Drew Baker is a Partner and Technology Director at Funkhaus, where he oversees the strategic initiatives of the development team and shares in Managing Director responsibilities of the Los Angeles office. He’s built hundreds of websites for the top creative companies in the world and trained teams of developers. He has a proven track record of architecting and building large scale decoupled websites and applications. He’s a regular contributor to the open-source ecosystem for Nuxt, and Headless WordPress GraphQL, and is a regular presenter at the Vue.js LA meetup group.
 
+## JavaScript Jabber: Using Storybook and Nuxt To Quickly Build Websites - JSJ 531
+
+I was a guest on this podcast, released on May 11th, 2022
+
+> Steve, AJ, and Dan talk to Drew Baker, co-founder of Los Angeles based digital agency Funkhaus about Storybook and Nuxt. After a discussion of various server side rendering methods, Drew talks about how they use Storybook, how it integrates tightly with Nuxt, and how it helps Funkhaus quickly and cleanly spin up sites for large customers.
+
+**Download**
+
+https://javascriptjabber.com/using-storybook-and-nuxt-to-quickly-build-websites-jsj-531
+
+## Views on Vue: Nuxt with Drew Baker from Funkhaus - VUE 185
+
+I was a guest on this podcast, released on May 11th, 2022
+
+> In today’s episode we talk with Drew Baker, the technical director at Funkhaus, a digital agency specializing in web development, branding, identity and full content programming.
+> 
+> This engineering team of six people work mostly in Vue, and with a Webby award for their work on Songs from Scratch, we gain a lot of background, tips and lessons learned from their work. He gives us insights to what Nuxt is compared to VUE, and what features makes it his tool of choice. We also look forward to what is coming next with the release of Nuxt 3 and that that means for the VUE coders.
+
+**Download**
+
+https://viewsonvue.com/nuxt-with-drew-baker-from-funkhaus-vue-185
+
+## Managing Marketing: Drew Baker And Darren Talk Websites And How To Make Them Great
+
+I was a guest on this podcast, released on April 26th, 2022
+
+> Drew Baker is the Technical Director and a partner at Funkhaus, he and Darren talk websites and how to make them great.
+
+**Download**
+
+https://podcasts.apple.com/us/podcast/managing-marketing/id1018735190?i=1000558710001
+
 ## Junior To Senior with David Guttman
 
 A podcast I was a guest on. Released July 26th, 2021.

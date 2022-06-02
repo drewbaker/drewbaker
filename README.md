@@ -6,6 +6,16 @@ A running file with links to all the presentations, press or podcasts I've been 
 
 > Drew Baker is a Partner and Technology Director at Funkhaus, where he oversees the strategic initiatives of the development team and shares in Managing Director responsibilities of the Los Angeles office. He’s built hundreds of websites for the top creative companies in the world and trained teams of developers. He has a proven track record of architecting and building large scale decoupled websites and applications. He’s a regular contributor to the open-source ecosystem for Nuxt, and Headless WordPress GraphQL, and is a regular presenter at the Vue.js LA meetup group.
 
+## Views on Vue: Daniel Roe and the New Features of Nuxt 3 Beta - VUE 186
+
+I was a co-host on this podcast, released May 24th, 2022
+
+> This week Steve and first-time host Drew Baker talk with Daniel Roe about the new features of Nuxt 3 which has just been released in Beta. We dive into discussions on topics such as the new page-routing syntax, the nitro server, unstorage, zero-config, svg’s, and composables.
+
+**Download**
+
+https://viewsonvue.com/daniel-roe-and-the-new-features-of-nuxt-3-beta-vue-186
+
 ## JavaScript Jabber: Using Storybook and Nuxt To Quickly Build Websites - JSJ 531
 
 I was a guest on this podcast, released on May 11th, 2022

@@ -14,7 +14,8 @@ I was a co-host on this podcast, released May 24th, 2022
 
 **Download**
 
-https://viewsonvue.com/daniel-roe-and-the-new-features-of-nuxt-3-beta-vue-186
+- Part 1: https://viewsonvue.com/daniel-roe-and-the-new-features-of-nuxt-3-beta-vue-186
+- Part 2: https://topenddevs.com/podcasts/views-on-vue/episodes/nuxt-3-newa-features-and-the-nuxt-3-community-with-daniel-roe-vue-188
 
 ## JavaScript Jabber: Using Storybook and Nuxt To Quickly Build Websites - JSJ 531
 

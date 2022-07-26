@@ -1,10 +1,20 @@
-# Presentations
+# Presentations, Press & Podcasts
 
 A running file with links to all the presentations, press or podcasts I've been a part of over the years.
 
 **Bio:**
 
 > Drew Baker is a Partner and Technology Director at Funkhaus, where he oversees the strategic initiatives of the development team and shares in Managing Director responsibilities of the Los Angeles office. He’s built hundreds of websites for the top creative companies in the world and trained teams of developers. He has a proven track record of architecting and building large scale decoupled websites and applications. He’s a regular contributor to the open-source ecosystem for Nuxt, and Headless WordPress GraphQL, and is a regular presenter at the Vue.js LA meetup group.
+
+## Using Storybook, Nuxt, and Vue components to build websites as a team in parallel with Drew Baker
+
+I was interviewed on this podcast, released July 15, 2022
+
+> Drew Baker is the founder and technical director at Funkhaus digital agency. Drew joins us to talk about how he and his team use Storybook, Nuxt, and Vue components to build multiple websites quickly and efficiently.
+
+**Download**
+
+https://podcasts.apple.com/us/podcast/using-storybook-nuxt-and-vue-components-to-build/id1539945251?i=1000570012143
 
 ## Views on Vue: Daniel Roe and the New Features of Nuxt 3 Beta - VUE 186
 
@@ -180,6 +190,7 @@ https://docs.google.com/presentation/d/1PonNBqORLZxef0olSYhS0vbSnJ32voDXkObOSQcp
 
 # Press
 
+- https://stellate.co/blog/super-fast-wordpress-graphql-for-flood-magazine
 - https://www.monsterchildren.com/a-behind-the-scenes-look-at-funkhaus/
 - http://voyagela.com/interview/meet-drew-baker-funkhaus-downtown-la/
 - https://getflywheel.com/layout/funkhaus-managed-hosting/

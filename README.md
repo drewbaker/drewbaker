@@ -6,6 +6,16 @@ A running file with links to all the presentations, press or podcasts I've been 
 
 > Drew Baker is a Partner and Technology Director at Funkhaus, where he oversees the strategic initiatives of the development team and shares in Managing Director responsibilities of the Los Angeles office. He’s built hundreds of websites for the top creative companies in the world and trained teams of developers. He has a proven track record of architecting and building large scale decoupled websites and applications. He’s a regular contributor to the open-source ecosystem for Nuxt, and Headless WordPress GraphQL, and is a regular presenter at the Vue.js LA meetup group.
 
+## The Developer Hiring Process From Both Sides - VUE 204
+
+I was interviewed on this podcast, released November 29, 2022
+
+> Steve sits down with guest host Drew Baker to talk about their experiences and tips about getting hired as a web developer these days. Steve covers his experiences both as a job seeker and the person doing the hiring and along with Drew, tells some great - and not-so-great stories about job hunting from both sides. Along the way, they provide some (hopefully) helpful tips on job hunting, such as how to write cover letters and resumes, and what employers are looking for as you go through the hiring process.
+
+**Download**
+
+https://podcasts.apple.com/us/podcast/the-developer-hiring-process-from-both-sides-vue-204/id1364741105?i=1000588246106
+
 ## Using Storybook, Nuxt, and Vue components to build websites as a team in parallel with Drew Baker
 
 I was interviewed on this podcast, released July 15, 2022

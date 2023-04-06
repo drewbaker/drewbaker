@@ -6,6 +6,14 @@ A running file with links to all the presentations, press or podcasts I've been 
 
 > Drew Baker is a Partner and Technology Director at Funkhaus, where he oversees the strategic initiatives of the development team and shares in Managing Director responsibilities of the Los Angeles office. He’s built hundreds of websites for the top creative companies in the world and trained teams of developers. He has a proven track record of architecting and building large scale decoupled websites and applications. He’s a regular contributor to the open-source ecosystem for Nuxt, and Headless WordPress GraphQL, and is a regular presenter at the Vue.js LA meetup group.
 
+##  Everything About Nuxt with Drew Baker - VUE 212 
+
+Returning guest, Drew Baker is the Founder and Technical Director at Funkhaus. He joins Steve on this week's episode to discuss his experiences in using Nuxt and all it's different rendering modes (SPA, SSG, SRR, ISG). He talks about its useful features and goes into detail about its benefits.
+
+**Download**
+
+https://podcasts.apple.com/us/podcast/everything-about-nuxt-with-drew-baker-vue-212/id1364741105?i=1000607633834
+
 ## The Developer Hiring Process From Both Sides - VUE 204
 
 I was interviewed on this podcast, released November 29, 2022

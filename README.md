@@ -199,7 +199,7 @@ I presented this to VueJS LA meetup on Febuary 12th, 2019
 **Presentation:**
 https://docs.google.com/presentation/d/14o8sxrVpvOh_1WE6y_R4IsL9guO4VMQR0jRvsxacbC0/edit?usp=sharing
 
-## Financial Advice
+### Financial Advice Presentation
 I give this to all the new hires at Funkhaus, so they don't waste thier money.
 
 **Presentation:**

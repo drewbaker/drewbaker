@@ -1,6 +1,8 @@
 ## Bio
 
-> Drew Baker is a Partner and Technology Director at [Funkhaus](https://funkhaus.us), where he oversees the strategic initiatives of the development team and shares in Managing Director responsibilities of the Los Angeles office. He’s built hundreds of websites for the top creative companies in the world and trained teams of developers. He has a proven track record of architecting and building large scale decoupled websites and applications. He’s a regular contributor to the open-source ecosystem for Nuxt, and Headless WordPress GraphQL, and is a regular presenter at the Vue.js LA meetup group.
+> A team focused software engineer and leader who enjoys tackling complex problems that demand a system architect’s mindset and a scalable, long-term approach. My preferred stack is JavaScript, with deep experience in Node, Vue, Nuxt, and Nitro. I consider myself AI-native, integrating AI into my daily workflow to design, build, and optimize faster.
+
+I enjoy challenges that require not just coding, but building elegant, scalable systems that connect product, design, and engineering. Whether architecting APIs, shaping front-end frameworks, or mapping out long-term technical strategy, I prefer environments where thoughtful design and technical rigor come together to create something both powerful and beautiful.
 
 ## Podcasts & Presentations
 

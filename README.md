@@ -1,7 +1,7 @@
 ## Bio
 
 > A team focused software engineer and leader who enjoys tackling complex problems that demand a system architect’s mindset and a scalable, long-term approach. My preferred stack is JavaScript, with deep experience in Node, Vue, Nuxt, and Nitro. I consider myself AI-native, integrating AI into my daily workflow to design, build, and optimize faster.
-
+>
 > I enjoy challenges that require not just coding, but building elegant, scalable systems that connect product, design, and engineering. Whether architecting APIs, shaping front-end frameworks, or mapping out long-term technical strategy, I prefer environments where thoughtful design and technical rigor come together to create something both powerful and beautiful.
 
 ## Podcasts & Presentations
